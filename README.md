@@ -4,7 +4,7 @@
 
 * Pili Hu: http://hupilidemo.github.io/
 * Student 1
-* Pili Hu: http://hupilidemo.github.io/
+* Student 2
 * Student 3
 * Student 4
 * Student 5
@@ -23,7 +23,7 @@
 * Student 18
 * Student 19
 * Student 20
-* Student 21
+* Yang Yu:http://yangyuiris.github.io/
 * Student 22
 * Student 23
 * Student 24
